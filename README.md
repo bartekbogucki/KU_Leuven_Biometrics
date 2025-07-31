@@ -1,0 +1,1 @@
+Engineered biometric recognition systems using computer vision techniques for face and fingerprint data. Built feature extraction, similarity scoring, and classification pipelines with OpenCV and TensorFlow/Keras, with hyperparameter tuning and performance optimization.
